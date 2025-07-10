@@ -30,16 +30,16 @@ A real-time chat application built with the **MERN stack** (MongoDB, Express, Re
 
 ## 📸 Screenshots
 
-### 🔐 Login Page
+### Login Page
 ![Login](Client/public/Login.PNG)
 
-### 📝 Register Page
+### Register Page
 ![Register](Client/public/Register.PNG)
 
-### 🏠 Home Page
+### Home Page
 ![Home](Client/public/Home.PNG)
 
-### 👤 Update Profile
+### Update Profile
 ![Profile](Client/public/Edit-Profile.PNG)
 
 ---
