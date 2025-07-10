@@ -2,8 +2,6 @@
 
 A real-time chat application built with the **MERN stack** (MongoDB, Express, React, Node.js) and **Socket.IO** for live messaging. Users can register, login, update their profiles, and chat with others in real-time with image support and online presence detection.
 
-![Chat App Screenshot](https://via.placeholder.com/900x400.png?text=MERN+Chat+App+Preview)
-
 ---
 
 ## 🚀 Features
@@ -33,16 +31,16 @@ A real-time chat application built with the **MERN stack** (MongoDB, Express, Re
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](Client/public/chat-Login.PNG)
+![Login](Client/public/Login.PNG)
 
 ### 📝 Register Page
 ![Register](Client/public/Register.PNG)
 
 ### 🏠 Home Page
-![Home](Client/public/chat-Home.PNG)
+![Home](Client/public/Home.PNG)
 
 ### 👤 Update Profile
-![Profile](Client/public/Edit-Profile-update.PNG)
+![Profile](Client/public/Edit-Profile.PNG)
 
 ---
 
@@ -52,8 +50,8 @@ A real-time chat application built with the **MERN stack** (MongoDB, Express, Re
 
 ```bash
 # 1. Clont The Repo
-git clone https://github.com/syedthedev/mern-todo-app.git
-cd mern-todo-app
+git clone https://github.com/syedthedev/mern-chat-app.git
+cd mern-chat-app
 
 # 2. Backend
 cd Server
