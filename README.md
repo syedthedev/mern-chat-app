@@ -33,15 +33,33 @@ A real-time chat application built with the **MERN stack** (MongoDB, Express, Re
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](client/public/chat-Login.PNG)
+![Login](Client/public/chat-Login.PNG)
 
 ### 📝 Register Page
-![Register](client/public/Register.PNG)
+![Register](Client/public/Register.PNG)
 
 ### 🏠 Home Page
-![Home](client/public/chat-Home.PNG)
+![Home](Client/public/chat-Home.PNG)
 
 ### 👤 Update Profile
-![Profile](client/public/Edit-Profile-update.PNG)
+![Profile](Client/public/Edit-Profile-update.PNG)
 
 ---
+
+## 📦 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+# 1. Clont The Repo
+git clone https://github.com/syedthedev/mern-todo-app.git
+cd mern-todo-app
+
+# 2. Backend
+cd Server
+npm install
+node Server.js
+
+# 3. Frontend
+cd Client
+npm run dev
